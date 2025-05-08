@@ -69,8 +69,7 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h3 align="center">Hi there 👋, I'm Vikas</h3>
-<h4 align="center">Just learning New Skills😀</h4>
+
 
 <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/vikas-sharma005">

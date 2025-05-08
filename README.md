@@ -70,7 +70,7 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
 </div>
 
 
-You can find more about me and my projects on my [GitHub profile](https://github.com/vikasharma005).
+
 
 ## License
 

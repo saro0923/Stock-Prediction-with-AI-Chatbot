@@ -7,7 +7,7 @@ Making stock analysis simple, smart, and accessible!
 
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 
 The stock market is complex, data-driven, and fast-changing, which makes it difficult for individual investors to make informed decisions.
 

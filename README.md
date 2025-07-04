@@ -88,5 +88,6 @@ Support additional stocks, indices & markets.
 ## Author
 
 Saravanan S
+
 LinkedIn: www.linkedin.com/in/saravanan2311
 
